@@ -1,0 +1,17 @@
+#header_main{
+	background-color: #000!important;
+}
+.md-btn-black{
+	background-color: #000!important;
+	color: #fff!important;
+}
+.md-btn-black:hover{
+	background-color: #8c8686!important;
+	color: #fff!important;
+}
+.wizard>.steps{
+	background-color: #000!important;
+}
+.wizard>.steps>ul>li.current a, .wizard>.steps>ul>li.current a:active, .wizard>.steps>ul>li.current a:hover{
+	background-color: #4e4e4e!important;
+}
